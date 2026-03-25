@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Jesús 👋
+> Estudiante de Ingeniería Informática · Practicante de Producto
 
-<!--
-**jesusvillanueva0308/jesusvillanueva0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mí
+- Aprendiendo **arquitectura de software**, backend y diseño de bases de datos
+- Actualmente trabajando en proyectos con Java y Python
+- Me interesa entender cómo los sistemas escalan y se mantienen en el tiempo
+- Siempre con algo nuevo en el editor 🛠
 
-Here are some ideas to get you started:
+### Tecnologías que manejo
+`Java` `Python` `TypeScript` `JavaScript` `C#` `C++` `C`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ahora mismo estoy...
+- Estudiando patrones de diseño y arquitectura de software
+- Profundizando en modelado y optimización de bases de datos
+- Explorando el desarrollo backend con proyectos propios
+
+### Conectemos
+[LinkedIn]
